@@ -33,8 +33,7 @@ A brain tumor is a growth of cells in the brain that multiplies in an uncontroll
 * Clinical data includes patient demographics, treatment history, and survival outcomes.
 
 ## Patient Data
-![Screenshot (1585)](https://github.com/gelsonm/3D-BRAIN-MRI-DETECTION/assets/37416550/2263137e-073a-446e-95df-72d19f0c25e2)
-
+![Screenshot (1586)](https://github.com/gelsonm/3D-BRAIN-MRI-DETECTION/assets/37416550/e8f32f20-ec6c-40fc-8c46-a4413875fe44)
 * Each patient has 4 brain MRI scans: T1-weighted, T2-weighted, T1 post-contrast, and T2-FLAIR MRI.
 * Each patient has 155 slices of brain images.
 * Clinical features include GLCM, Morphologic, Survival days, Age, Gender, and MGMT status.
