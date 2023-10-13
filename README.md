@@ -3,10 +3,9 @@
 # Table of Contents
 1. [Introduction](#Introduction)
 2. [Dataset](#Dataset)
-3. [Base Paper](#Base-Paper)
-4. [Implementation](#Implementation)
-5. [Results](#Results)
-6. [Future Scope](#Future-Scope)
+3. [Implementation](#Implementation)
+4. [Results](#Results)
+5. [Future Scope](#Future-Scope)
 
 # Introduction
 A brain tumor is a growth of cells in the brain that multiplies in an uncontrolled, abnormal way. Some brain tumors are noncancerous (benign), and some are cancerous (malignant).
@@ -24,9 +23,6 @@ A brain tumor is a growth of cells in the brain that multiplies in an uncontroll
 * MGMT promoter methylation status is a widely accepted biomarker in glioblastoma.
 * Pituitary tumors are abnormal growths that develop in the pituitary gland.
 * A meningioma tumor arises from the meninges, the membranes that surround the brain and spinal cord.
-
-# Base Paper
-[Classifying tumor brain images using parallel deep learning algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0010482522005467)
 
 # Dataset
 
